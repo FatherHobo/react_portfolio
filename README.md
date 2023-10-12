@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Personal Portfolio by George
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a portfolio piece that I have developed to show off my front end development skills.
 
-## Available Scripts
+## Languages
 
-In the project directory, you can run:
+The main languages that are used in this are React, HTML, CSS and JavaScript.
 
 ### `npm start`
 
